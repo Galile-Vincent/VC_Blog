@@ -40,7 +40,7 @@
       {
         "title": "VCook",
         "description": "AI-powered cooking companion with smart recipes and hands-free guidance.",
-        "href": "./VCook",
+        "href": "./VCook.html",
         "image": "img/vc_all.png",
         "image_alt": "VCook",
         "variant_class": "project-item--vcook"
@@ -48,14 +48,14 @@
       {
         "title": "MyGoal App",
         "description": "A mindful goal-setting app focused on clarity, reflection, and long-term growth.",
-        "href": "./MyGoal",
+        "href": "./MyGoal.html",
         "image": "img/MyGoal_Cover.png",
         "image_alt": "MyGoal App"
       },
       {
         "title": "Blog",
         "description": "Product notes, iOS lessons, and build stories sourced from Markdown in GitHub.",
-        "href": "./Blogs",
+        "href": "./Blogs.html",
         "image": "img/vc.jpeg",
         "image_alt": "Blog writing and engineering stories",
         "variant_class": "project-item--blog"

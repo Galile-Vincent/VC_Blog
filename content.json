@@ -113,5 +113,113 @@
         "icon_class": "fas fa-comment"
       }
     ]
+  },
+  "awards": {
+    "title": "Awards & Achievements",
+    "subtitle": "Recognizing excellence in technology and innovation",
+    "items": [
+      {
+        "icon": "🏆",
+        "title": "MAIC Most Innovation Award (Taiwan) & First Place in China Final",
+        "date": "2025",
+        "description": "Won the Most Innovation Award in Taiwan and secured first place in the China final with VCook - an AI-powered recipe and cooking app.",
+        "links": [
+          {
+            "label": "MAIC Event",
+            "href": "https://maic.straighta.com.tw"
+          },
+          {
+            "label": "VCook on App Store",
+            "href": "https://apps.apple.com/tw/app/vcook-recipe-cooking-ai/id6742108272?l=en-GB"
+          }
+        ]
+      },
+      {
+        "icon_image": "img/swift.png",
+        "icon_alt": "Swift logo",
+        "title": "WWDC25 Swift Student Challenge",
+        "date": "2025",
+        "description": "",
+        "links": [
+          {
+            "label": "壹哥的科技新聞",
+            "href": "https://onegeek1979.com/news/77264"
+          },
+          {
+            "label": "壹蘋新聞網",
+            "href": "https://tw.nextapple.com/finance/20250412/53DB41F4F98A2FDCC6469B43BEDE79BD"
+          },
+          {
+            "label": "中央社",
+            "href": "https://www.cna.com.tw/news/ait/202504050036.aspx"
+          }
+        ]
+      },
+      {
+        "icon_image": "img/swift.png",
+        "icon_alt": "Swift logo",
+        "title": "WWDC24 Swift Student Challenge",
+        "date": "2024",
+        "description": "",
+        "links": [
+          {
+            "label": "Tech News",
+            "href": "https://technews.tw/2024/05/24/wwdc24-swift-student-challenge/"
+          },
+          {
+            "label": "Yahoo新聞",
+            "href": "https://tw.news.yahoo.com/apple-swift-student-challenge-taiwan-winner-interview-093520650.html"
+          },
+          {
+            "label": "聯合新聞",
+            "href": "https://udn.com/news/story/7266/7989565"
+          },
+          {
+            "label": "壹哥的科技新聞",
+            "href": "https://onegeek1979.com/news/63576"
+          }
+        ]
+      },
+      {
+        "icon": "🥈",
+        "title": "Second Place in Taipei City 111 School Year Information Application Competition - Smart Model Robots",
+        "date": "111 School Year",
+        "description": "Designed a smart logistics box.",
+        "links": []
+      },
+      {
+        "icon": "🏆",
+        "title": "Excellence Award in 111 National High School Student Electronics and Information Group Creative Competition",
+        "date": "111 School Year",
+        "description": "Designed a smart kitchen controlled by sound information.",
+        "links": []
+      },
+      {
+        "icon": "🏆",
+        "title": "Excellence Award in the 2022 Fifth National High School Student Emerging Technology Smart IoT Creative Application Competition",
+        "date": "2022",
+        "description": "Designed a more advanced smart environmental protection logistics box.",
+        "links": []
+      },
+      {
+        "icon": "📱",
+        "title": "Participant in WWDC23 Swift Student Challenge",
+        "date": "2023",
+        "description": "Designed the Food Savior App. GitHub link:",
+        "links": [
+          {
+            "label": "Link",
+            "href": "https://reurl.cc/kaZvkn"
+          }
+        ]
+      },
+      {
+        "icon": "🤖",
+        "title": "Participant in 2022 FIRST Robotics Competition (FRC)",
+        "date": "2022",
+        "description": "Represented school team to participate in the Taiwan regional qualification competition.",
+        "links": []
+      }
+    ]
   }
 }

@@ -15,6 +15,14 @@
       "intro": "Lessons from building a cooking app experience with practical UX detail, motion tuning, and iteration habits.",
       "image_link": "img/vc_all.png",
       "markdown_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/README.md"
+    },
+    {
+      "id": "demo-blog-1",
+      "publish_date": "2026-03-14",
+      "title": "Demo Blog 1 from VC_Blog",
+      "intro": "A demo markdown post loaded from VC_Blog/blog/blog_1.md.",
+      "image_link": "img/vc_home_page.png",
+      "markdown_path": "blog/blog_1.md"
     }
   ]
 }
